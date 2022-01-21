@@ -7,7 +7,7 @@ List of college projects by undergraduates from 077 Batch, Pulchowk Campus.
 * [Election System](https://github.com/dineshchhantyal/c-project.git) - @dineshchhantyal (BCT026), @ashreempandey (BCT014), @lokeshpandey (BCT040), @ManishKunwar(BCT045)
 * [Mini Tourist Guide](https://github.com/paudelanil/C-project) -@AagabBhattarai (BCT001), @agrim_paneru(BCT008), @paudelanil(BCT010), @ashim_karki(BCT013), @Binit17(BCT017)
 * [Cryptics-Encryption Via RSA](https://github.com/A-atmos/RSAinC) -@aavashChhetri(BCT004),@AmritSharma(BCT009),@DavidGurung(BCT025),@KushalPoudel(BCT039,@MandipThapa(BCT044)
-
+* [MCQ-evaluation-application](https://github.com/1st-sem-c-project/MCQ-evaluation-application) -@ManishGru(BEI021),@PasangSherpa123(BEI028),@AayushLuitel(BEI006),@nirajchaurasia(BEI025)
 ---
 
 ### Note:
