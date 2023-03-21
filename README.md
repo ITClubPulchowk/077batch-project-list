@@ -9,6 +9,12 @@ List of college projects by undergraduates from 077 Batch, Pulchowk Campus.
 * [Cryptics-Encryption Via RSA](https://github.com/A-atmos/RSAinC) -@aavashChhetri(BCT004),@AmritSharma(BCT009),@DavidGurung(BCT025),@KushalPoudel(BCT039,@MandipThapa(BCT044)
 * [Selection-sort-algorithm](https://github.com/WT-Kripesh/C_miniproject_Selection-sort-algorithm) - @WT-kripesh (BCT 037), @Biraj Kumar Kranjit (BCT020), @biraj_acharya (BCT019), @hemant_panchariya(BCT029)
 
+### DSA Project
+* [Maze Generators & Solvers](https://github.com/ronejfourn/dsa-project) - [@ronejfourn](https://github.com/ronejfourn) (BEI034), [@Risav25Pokhrel](https://github.com/Risav25Pokhrel) (BEI035), [@RohanBade](https://github.com/RohanBade) (BEI036), [@SujanBsn](https://github.com/SujanBsn) (BEI045)
+
+### Computer Graphics Project
+* ["Voxel" Terrain](https://github.com/ronejfourn/graphics-project) - [@ronejfourn](https://github.com/ronejfourn) (BEI034), [@Risav25Pokhrel](https://github.com/Risav25Pokhrel) (BEI035), [@RohanBade](https://github.com/RohanBade) (BEI036), [@SujanBsn](https://github.com/SujanBsn) (BEI045)
+
 ---
 
 ### Note:
