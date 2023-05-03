@@ -13,6 +13,8 @@ List of college projects by undergraduates from 077 Batch, Pulchowk Campus.
 ### DSA Project
 * [Maze Generators & Solvers](https://github.com/ronejfourn/dsa-project) - [@ronejfourn](https://github.com/ronejfourn) (BEI034), [@Risav25Pokhrel](https://github.com/Risav25Pokhrel) (BEI035), [@RohanBade](https://github.com/RohanBade) (BEI036), [@SujanBsn](https://github.com/SujanBsn) (BEI045)
 
+* [File Compressor](https://github.com/Sujan-Koirala021/File-Compressor)  - [@Sujan Koirala](https://github.com/Sujan-Koirala021)(BCT087), [@Samundra Subedi](https://github.com/Samundra-Subedi) (BCT096), [@Subash Lamichhane](https://github.com/Subash-Lamichhane) (BCT081), [@Swikar Gautam](https://github.com/SwikarGautam) (BCT091)
+
 ### Computer Graphics Project
 * ["Voxel" Terrain](https://github.com/ronejfourn/graphics-project) - [@ronejfourn](https://github.com/ronejfourn) (BEI034), [@Risav25Pokhrel](https://github.com/Risav25Pokhrel) (BEI035), [@RohanBade](https://github.com/RohanBade) (BEI036), [@SujanBsn](https://github.com/SujanBsn) (BEI045)
 
