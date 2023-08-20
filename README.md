@@ -22,6 +22,7 @@ List of college projects by undergraduates from 077 Batch, Pulchowk Campus.
 ### Computer Graphics Project
 * ["Voxel" Terrain](https://github.com/ronejfourn/graphics-project) - [@ronejfourn](https://github.com/ronejfourn) (BEI034), [@Risav25Pokhrel](https://github.com/Risav25Pokhrel) (BEI035), [@RohanBade](https://github.com/RohanBade) (BEI036), [@SujanBsn](https://github.com/SujanBsn) (BEI045)
 
+* [3D Zoo Engine](https://github.com/Sujan-Koirala021/3D-Zoo) - [@Sujan Koirala](https://github.com/Sujan-Koirala021)(BCT087), [@Subash Lamichhane](https://github.com/Subash-Lamichhane) (BCT081)
 ---
 
 ### Note:
